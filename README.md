@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @sirajshaikh-dev
+<h1 align="center">Hi 👋, I'm Shaikh Siraj</h1>
+
+![](https://komarev.com/ghpvc/?username=sirajshaikh-dev&color=blueviolet&style=flat-square)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
